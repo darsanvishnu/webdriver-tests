@@ -1,3 +1,4 @@
 /target/
 .classpath
-gitignorefile.txt
+/gitignorefile.txt
+/ignore.txt
